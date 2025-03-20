@@ -14,6 +14,20 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
+
+
+<h2> Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/ishaqjones/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/ishaqjones/Post-Installation-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/ishaqjones/osTicket-Ticket-Lifecycle-Examples)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ishaqjones/active-directory-deploy)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ishaqjones/NSGs-and-Inspecting-Azure-VM-traffic)
+    
+ 
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -30,17 +44,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
-
-<h2> Information Technology Projects:</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/ishaqjones/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/ishaqjones/Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/ishaqjones/osTicket-Ticket-Lifecycle-Examples)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ishaqjones/active-directory-deploy)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ishaqjones/NSGs-and-Inspecting-Azure-VM-traffic)
-
 
 
 
