@@ -1,7 +1,6 @@
 # <a href="https://www.linkedin.com/in/ishaqjones/">Ishaq Jones</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
+I'm deeply passionate about Information Technology. I thrive on solving complex challenges through hands-on projects that allow me to stay ahead in this constantly evolving landscape. I invite you to explore my work and see how I’ve contributed to strengthening security operations and optimizing processes.
 
 ## ⚠️ Vulnerability Management Projects
 
